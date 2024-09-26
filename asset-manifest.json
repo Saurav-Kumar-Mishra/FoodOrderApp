@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Saurav-Kumar-Mishra/FoodOrderApp/static/css/main.a02a607e.css",
+    "main.js": "/Saurav-Kumar-Mishra/FoodOrderApp/static/js/main.c40146c0.js",
+    "static/media/flat-lay-green-vegetables-fruits.jpg": "/Saurav-Kumar-Mishra/FoodOrderApp/static/media/flat-lay-green-vegetables-fruits.f77d6db9a09d241e8eaf.jpg",
+    "index.html": "/Saurav-Kumar-Mishra/FoodOrderApp/index.html",
+    "main.a02a607e.css.map": "/Saurav-Kumar-Mishra/FoodOrderApp/static/css/main.a02a607e.css.map",
+    "main.c40146c0.js.map": "/Saurav-Kumar-Mishra/FoodOrderApp/static/js/main.c40146c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a02a607e.css",
+    "static/js/main.c40146c0.js"
+  ]
+}
